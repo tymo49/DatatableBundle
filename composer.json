@@ -31,6 +31,6 @@
     "stof/doctrine-extensions-bundle": "*",
     "jms/serializer-bundle": "^2.0 || ^3.3",
     "app-verk/components": "dev-symfony-5.4",
-    "knplabs/knp-paginator-bundle": "^3.0"
+    "knplabs/knp-paginator-bundle": "^5.0"
   }
 }
